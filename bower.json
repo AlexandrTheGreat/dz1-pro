@@ -1,0 +1,7 @@
+{
+  "name": "dz1-pro",
+  "dependencies": {
+    "normalize-css": "^7.0.0",
+    "modernizr": "^3.5.0"
+  }
+}
